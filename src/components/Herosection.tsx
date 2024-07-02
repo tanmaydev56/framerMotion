@@ -1,6 +1,6 @@
 import React from "react";
 import Link from "next/link";
-import { Spotlight } from "./ui/spotlight";
+
 import { AuroraBackground } from "./ui/aurora-background";
 import { Button } from "./ui/moving-border";
 
