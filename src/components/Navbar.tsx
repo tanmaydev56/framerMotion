@@ -62,7 +62,7 @@ const Navbar = ({ className }: { className?: string }) => {
         
         
 
-        <Link href={"/contacts"}>
+        <Link href={"/contact"}>
         <MenuItem  
     setActive={setActive}
     active={active}
